@@ -13,7 +13,7 @@ Thank you for taking part in this study.
 
 Open:
 [
-https://Anna-Takayasu.github.io/BikeStressVideoSurvey/](https://anna-takayasu.github.io/BikeStressVideoSurvey/)
+(https://github.com/fasu78601/BikeStressVideoSurvey)(https://github.com/fasu78601/BikeStressVideoSurvey)
 
 ## What to do
 
